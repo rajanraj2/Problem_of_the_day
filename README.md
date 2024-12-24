@@ -12,4 +12,4 @@ This repo contains solutions of Leetcode problem of the day from 8th June 2024.
 **September** - 15, 19, 20, 22, 23, 24, 25, 20  
 **October** - 13, 24, 25, 26, 28, 29, 30, 31  
 **November** - 9, 10, 11, 12, 20, 27, 28, 29  
-**December** - 21, 22  
+**December** - 21, 22, 24 
