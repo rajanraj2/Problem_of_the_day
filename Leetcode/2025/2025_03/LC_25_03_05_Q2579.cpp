@@ -7,7 +7,7 @@ public:
     long long coloredCells(int n) {
         long long result = 1;
         if (n <= 1) return result;
-        result += LLONG((n - 1) * (2 * 4 + (n - 2) * 4) / 2);
+        result += 1LL * (n - 1) * (2 * 4 + (n - 2) * 4) / 2;
         return result;
     }
 };
